@@ -1,0 +1,10 @@
+Fajitas,photos/meals/Fajitas.png
+Pasta bake,photos/meals/Pasta bake.png
+Pasta on the hob,photos/meals/Pasta on the hob.png
+Traybakes,photos/meals/Traybakes.png
+Soup,photos/meals/Soup.png
+Jacket potatoes,photos/meals/potatoes.png
+Stir-fried rice,photos/meals/Stir-fried rice.png
+Granola,photos/meals/Granola.png
+Omelettes,photos/meals/Omelettes.png
+Curry,E:\Java projects\Students_Dormitory\photos\meals\Fajitas.png

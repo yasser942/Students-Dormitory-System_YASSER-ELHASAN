@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="StudentDashboard">
+  <grid id="27dc6" binding="student_dashboard" layout-manager="GridLayoutManager" row-count="8" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="5" left="5" bottom="5" right="5"/>
+    <constraints>
+      <xy x="20" y="20" width="727" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-65549"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="f4f7f" class="javax.swing.JButton" binding="request_gym">
+        <constraints>
+          <grid row="4" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="f4a39" class="javax.swing.JButton" binding="request_absence">
+        <constraints>
+          <grid row="6" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="ca1fc" class="javax.swing.JButton" binding="exit">
+        <constraints>
+          <grid row="6" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="f1435" class="javax.swing.JLabel" binding="student_icon" custom-create="true">
+        <constraints>
+          <grid row="1" column="0" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <hspacer id="d4a60">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="3" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="42d40" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Id :"/>
+        </properties>
+      </component>
+      <component id="f987d" class="javax.swing.JButton" binding="student_library">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <foreground color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="e5a4f" class="javax.swing.JButton" binding="student_room">
+        <constraints>
+          <grid row="5" column="0" row-span="3" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="69f0" class="javax.swing.JButton" binding="student_meals">
+        <constraints>
+          <grid row="4" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-65549"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="9b0cc" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Name : "/>
+        </properties>
+      </component>
+      <component id="fc3e0" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Email : "/>
+        </properties>
+      </component>
+      <component id="c09f3" class="javax.swing.JLabel" binding="Sname">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font style="1"/>
+          <foreground color="-12273578"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="b5d6f" class="javax.swing.JLabel" binding="student_id">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font style="1"/>
+          <foreground color="-12273578"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="b9a54" class="javax.swing.JLabel" binding="student_email">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font style="1"/>
+          <foreground color="-12273578"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

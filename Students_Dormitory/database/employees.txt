@@ -1,0 +1,16 @@
+hamed,hasasn,hamed@gmail.com,123456,05538762316,trainer
+fares,hasasn,fares@gmail.com,111222,05538762317,chef
+ahmad,hasasn,ahmad@gmail.com,147852,05538762317,librarian
+mostafa,hasasn,mostafa1@gmail.com,123456,05538762347,librarian
+mohammed,hasasn,mohammed@gmail.com,000111,05538762000,chef
+khalid,hasasn,khalid@gmail.com,111444,05538762044,librarian
+said,hasasn,said@gmail.com,047856,05538762055,trainer
+kamil,hasasn,kamil@gmail.com,047896,05538762077,librarian
+amjad,hasasn,amjad@gmail.com,111222,05538762317,chef
+yasser,hasasn,yasser@gmail.com,111000,05538762317,trainer
+abdullah,hasasn,abdullah@gmail.com,987654,05538762796,chef
+samer,hasasn,samer@gmail.com,987654,05538762796,chef
+husam,hasasn,husam@gmail.com,111222,05538762317,chef
+semih,hasasn,semih@gmail.com,000111,05538762000,librarian
+ali,hasan,ali@gmail.com,1478963,05538795426,trainer
+raaof,hamed,raaof@gmail.com,456987,0553879654,trainer

@@ -1,0 +1,11 @@
+Alternating Dumbbell Bench Press,photos/sports/Alternating Dumbbell Bench Press.png
+Barbell Bench Press,photos/sports/Barbell Bench Press.png
+Cable Crossover,photos/sports/Cable Crossover.png
+Chest Press Machine,photos/sports/Chest Press Machine.png
+Dumbbell Bench Press,photos/sports/Dumbbell Bench Press.png
+Dumbbell Flye,photos/sports/Dumbbell Flye.png
+Hips-Off Single-Arm Bench Press,photos/sports/Hips-Off Single-Arm Bench Press.png
+Incline Dumbbell Flye,photos/sports/Incline Dumbbell Flye.png
+Incline Dumbbell Press,photos/sports/Incline Dumbbell Press.png
+Landmine Press,photos/sports/Landmine Press.png
+Barbell Bench Press,photos/sports/Barbell Bench Press.png
